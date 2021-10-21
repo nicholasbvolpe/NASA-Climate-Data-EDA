@@ -2,7 +2,9 @@
 
 All of the data used in this analysis can be found here: https://climate.nasa.gov
 
-This repository contains the final presentation for my project for CSCI 4502: Data Mining. I collaborated with Alex Fisher, another Boulder student enrolled in the course, for this project.
+This repository contains the final presentation for my project for CSCI 4502: Data Mining in Fall 2020.
+
+I collaborated with Alex Fisher, another Boulder student enrolled in the course, for this project.
 
 The Jupyter Notebook contains my portion of the code.
 
